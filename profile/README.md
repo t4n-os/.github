@@ -1,6 +1,6 @@
 # T4n OS
 
-![T4n OS logo](/profile/T4n-OS.png)
+[<img src="/profile/T4n-OS.png" width="100">]
 
 **T4n OS** adalah sistem operasi Linux berbasis **Void Linux**.
 
