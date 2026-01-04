@@ -1,24 +1,5 @@
-# T4n OS
+<img src="/profile/T4n-OS.png" width="500">
 
-[<img src="/profile/T4n-OS.png" width="100">]
-
-**T4n OS** adalah sistem operasi Linux berbasis **Void Linux**.
-
-Fokus pada:
-- Sistem **minimal** dengan **systemd**
-- **Mudah digunakan** tanpa menghilangkan **full control**
-- Konfigurasi **jelas dan transparan**
-
-### Desktop & Window Manager
-- **Window Manager**: BSPWM (X11), RiverWM (Wayland)
-- **Desktop Environment**: XFCE4, KDE Plasma
-
-### Teknologi
-- Base: Void Linux
-- Init: runit & systemd(minimal)
-- Package Manager: xbps
-
-Void-based. Minimal systemd. Full control.
+T4n OS adalah distribusi GNU/Linux berbasis Void Linux yang dikembangkan secara independen dan berfokus pada keseimbangan antara kemudahan penggunaan dan kendali penuh pengguna. T4n OS menggunakan sistem yang minimal dan transparan, dengan systemd yang dikonfigurasi secara terkontrol, serta menyediakan pilihan Window Manager dan Desktop Environment tanpa mengunci pengguna pada satu alur kerja. Instalasi default bersifat ringan dan fungsional, memberi pengguna kebebasan untuk menyesuaikan sistem sesuai kebutuhan nyata.
 
 Pelajari selengkapnya di https://t4n-os.github.io/T4n_OS
-
